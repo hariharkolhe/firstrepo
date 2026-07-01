@@ -1,2 +1,2 @@
-# firstrepo
-this is my first repo
+
+I AM LEARNING DEVOPS IN 2026
